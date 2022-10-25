@@ -1,0 +1,1 @@
+<view class="container"><uni-search-bar wx:if="{{c}}" bindconfirm="{{a}}" u-i="7b240cee-0" bind:__l="__l" bindupdateModelValue="{{b}}" u-p="{{c}}"></uni-search-bar><view class="search-result"><text class="search-result-text">当前输入为：{{d}}</text></view></view>
